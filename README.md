@@ -1,6 +1,6 @@
 # Qlik-Sense-template-for-zabbix
 ### Description
-Collects  QlikSense metrics (QRS, QPS, QRD, QSD) from windows perfmon, also collects memory utilization (virtual memory and physical memory)  for Qlik Sense processes such as engines, repository and etc
+Collects  QlikSense metrics (QRS, QPS, QRD, QSD) from windows perfmon, also collects memory utilization for Qlik Sense processes such as engines, repository and etc
 This template works only single-node sites installation.
 This template only collect metrics.
 This template has no triggers, because the operating experience has not yet been accumulated.
