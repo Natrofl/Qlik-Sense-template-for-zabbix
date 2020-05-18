@@ -15,7 +15,7 @@ Add virtual proxy witch the next parameters
 * Anonymous access mode - Always anonymous user
 * Server node - Central
 * Additional response header - Cache-Control: no-cache
-* Host white list: 127.0.0.1, your IP for internal network **(external domain or IP NOT SAFE!!!)**
+* Host white list: 127.0.0.1, your IP for internal network **(dont use external domain or IP it is NOT SAFE!!!)**
 * Click Apply
 
 2. In Zabbix
