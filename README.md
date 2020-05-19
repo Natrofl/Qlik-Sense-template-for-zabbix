@@ -21,5 +21,5 @@ Add virtual proxy witch the next parameters
 2. In Zabbix
 * Import template via zabbix web-portal
 * Assing on Qlik Sense host
-* Change value of macro QPS_HOST to you Qlik Host internal IP.
+* Change value of macro QPS_HOST to your Qlik Host internal IP.
 
