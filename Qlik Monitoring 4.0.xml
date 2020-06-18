@@ -282,7 +282,7 @@
                     <url>https://{$QPS_HOST}/{$QPS_VP_PROXY}/engine/healthcheck</url>
                     <headers>
                         <header>
-                            <name>Cache-Contro</name>
+                            <name>Cache-Control</name>
                             <value>no-cache</value>
                         </header>
                     </headers>
